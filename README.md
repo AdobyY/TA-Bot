@@ -3,6 +3,12 @@
 
 This project is an implementation of a laboratory work for the course "Software Bots and Agents for Stock Markets." It demonstrates the development and testing of an algorithmic trading strategy.
 
+
+## Run My Project in Google Colab
+You can run my project in Google Colab by clicking the link below:
+
+[![Open in Colab](https://colab.research.google.com/img/colab_favicon.ico)](https://colab.research.google.com/drive/1wt0LcLdXmy5TbahFUJpfqrfMDu2UKCVq?usp=sharing)
+
 ## Project Structure
 
 The project is implemented in Google Colab and includes the following stages:
